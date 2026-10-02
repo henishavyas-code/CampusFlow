@@ -1,0 +1,31 @@
+# CampusFlow
+
+CampusFlow is an intelligent student productivity and academic planning web application.
+
+## 🚀 Live Demo
+
+https://campusflow-zero-to-shipped-136060259689.s3.us-east-1.amazonaws.com/index.html
+
+## 📌 Features
+
+- Student authentication and demo personas
+- Academic task management
+- Priority and deadline tracking
+- Subtask checklists
+- Smart AI Study Planner
+- Course and syllabus hub
+- Analytics and academic streak tracking
+
+## 🛠️ Tech Stack
+
+- React
+- Tailwind CSS
+- Vite
+- AWS S3 Static Website Hosting
+
+## 🏆 Hackathon
+
+AWS Zero to Shipped
+
+Category: #workplace-efficiency  
+Lane: #community
